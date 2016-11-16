@@ -1,1 +1,1 @@
-<?php echo "test_test_test"; ?>
+<?php echo "test_master"; ?>
